@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"IP",
+				"IP_ADDRESS"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "dis",
+		"selected_items":
+		[
+			[
+				"dis",
+				"Disable Autorefresh"
+			],
+			[
+				"en",
+				"Enable Autorefresh"
+			],
+			[
+				"di",
+				"Disable Autorefresh"
+			],
+			[
+				"ena",
+				"Enable Autorefresh"
+			],
+			[
+				"disa",
+				"Disable Autorefresh"
+			],
+			[
+				"enabl",
+				"Enable Autorefresh"
+			],
+			[
+				"d",
+				"Disable Autorefresh"
+			],
+			[
+				"enab",
+				"Enable Autorefresh"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"indent",
+				"Auto indent"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomio/src/coursera",
+		"/Users/tomio/src/coursera/algorithmic-toolbox",
+		"/Users/tomio/src/coursera/algorithmic-toolbox/1_week"
+	],
+	"file_history":
+	[
+		"/Users/tomio/src/pancam/test/android/logcat_multiadb.sh",
+		"/Users/tomio/Desktop/localconfig-wired",
+		"/Users/tomio/Desktop/Instrumentation.txt",
+		"/Users/tomio/src/answers.txt",
+		"/Users/tomio/Library/Application Support/Karabiner/private.xml",
+		"/Users/tomio/src/stf/.gitignore",
+		"/Users/tomio/src/pancam/unity/Zion/Zion/Makefile",
+		"/Users/tomio/src/pancam/unity/Zion/Zion/Assets/Zion/Scripts/Editor/ZionSDKMenuOculus.cs",
+		"/Users/tomio/src/pancam/unity/Zion/DeviceInterface/ZionDeviceInterface_ovr.cs",
+		"/Users/tomio/src/pancam/unity/Zion/DeviceInterface/ZionDeviceInterface_ovr_gearvr.cs",
+		"/Applications/Karabiner.app/Contents/Resources/private.xml",
+		"/Users/tomio/Downloads/private.xml",
+		"/Users/tomio/src/stf/README.md",
+		"/Users/tomio/Desktop/extractid.py",
+		"/Users/tomio/src/coursera/ELENGX24-004--Intro-to-C/Tomio_Ueda_M1_ShortAnswers.txt",
+		"/Users/tomio/src/coursera/ELENGX24-004--Intro-to-C/M1_ShortAnswers.c",
+		"/Users/tomio/src/coursera/ELENGX24-004--Intro-to-C/hello_world.c",
+		"/Users/tomio/anaconda/pkgs/boto-2.38.0-py27_0/lib/python2.7/site-packages/boto/vpc/subnet.py",
+		"/Users/tomio/Desktop/twitter/test_api.py",
+		"/Users/tomio/Desktop/twitter/example.json",
+		"/Users/tomio/Downloads/python-twitter-master/testdata/get_users_search.json",
+		"/Users/tomio/src/twitter/search_sketch.py",
+		"/Users/tomio/Downloads/s5.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--48606d4d--15-04-13_18_17.log",
+		"/Users/tomio/Downloads/crash.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--06157df65a235a3f--15-04-13_08_13.log",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/connect_multiadb.sh",
+		"/Users/tomio/Downloads/v26966.txt",
+		"/Users/tomio/Desktop/DID.txt",
+		"/Users/tomio/Desktop/3.txt",
+		"/Users/tomio/Desktop/2.txt",
+		"/Users/tomio/tmp/cs9star-master/cs9h/hw2/project2a.py",
+		"/Users/tomio/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tomio/src/pancam/test/android/adb_coordinator.py",
+		"/Users/tomio/Downloads/Python-Threading-Examples-master/statuschecker.py",
+		"/Users/tomio/Downloads/Python-Threading-Examples-master/statuschecker_queues.py",
+		"/Users/tomio/Downloads/Python-Threading-Examples-master/statuschecker_events.py",
+		"/Users/tomio/Downloads/Python-Threading-Examples-master/sleeper_override.py",
+		"/Users/tomio/Downloads/Python-Threading-Examples-master/sleeper_callable.py",
+		"/data/upload/1460244419-17.txt",
+		"/Users/tomio/Desktop/localconfig",
+		"/Users/tomio/Desktop/pandaplot.py",
+		"/Users/tomio/src/sketches/python/hackerrank/d3-intro_to_conditionals.py",
+		"/Users/tomio/src/sketches/python/hackerrank/d4-class_vs_instance.py",
+		"/data/upload/1459983462-17.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--0043315842b4a14f--06-04-15_50_33.log",
+		"/Users/tomio/src/pancam/data/tomio/1459277582.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--192.168.100.121:5555--06-04-13_58_51.log",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--192.168.100.121:5555--06-04-13_17_50.log",
+		"/Users/tomio/src/pancam/test/dock/test_poll.py",
+		"/Users/tomio/src/pancam/medusa/main/test_client.py",
+		"/Users/tomio/src/pancam/medusa/main/external_test_client.py",
+		"/Users/tomio/src/pancam/medusa/test_dock_api_results.xml",
+		"/Users/tomio/src/pancam/test/configs.py",
+		"/Users/tomio/Desktop/moonlight-sideload-demo-instructions.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/4b2484f251.v04--192.168.100.147:5555--05-04-16_44_44.log",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/final_devices.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/devices.txt",
+		"/Users/tomio/src/sketches/python/utility/print_file_structure.py",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/connect.java",
+		"/Users/tomio/src/gameboy/tmp/PyBoy-master/Source/Cartridge.py",
+		"/Users/tomio/src/pancam/.gitignore",
+		"/Users/tomio/Downloads/snoboy-master/requirements.txt",
+		"/Users/tomio/Downloads/snoboy-master/README.md",
+		"/Users/tomio/Downloads/drhelius-Gearboy-57a9a2e/platforms/macosx/README.md",
+		"/Users/tomio/Downloads/pycrc-0.9/README.md",
+		"/Users/tomio/Desktop/localusage.txt",
+		"/Users/tomio/src/sketches/tmp/scanlines.py",
+		"/Users/tomio/Documents/zionactionscripting.txt",
+		"/data/upload/archive_of_old/1450000000.txt",
+		"/data/upload/1459277582.txt",
+		"/Users/tomio/Desktop/PHONEMAN.txt",
+		"/Users/tomio/Desktop/1.txt",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/Revolt-BigSeanLive.L3Dv003--48606d4d--30-03-09_01_30.log",
+		"/Users/tomio/src/pancam/data/tomio/1459190812.txt",
+		"/data/upload/1459190812.txt",
+		"/data/upload/1458944265.txt",
+		"/Users/tomio/src/pancam/server/data/zion_pm.txt",
+		"/Users/tomio/src/pancam/server/data/server.json",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/JackWhiteInConcert-BallAndBiscuit.v10--48606d4d--23-03-13_29_13.log",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/logs/Revolt-BigSeanLive.L3Dv003_dolby--48606d4d--23-03-08_57_57.log",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/updated_junit.xml",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/test_android_playback_results.xml",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/crashgearvr.txt",
+		"/Users/tomio/src/pancam/unity/Zion/ZionPlugin/Android/ZionAndroidPlugin/Cardboard_AndroidManifest_Debug.xml",
+		"/Users/tomio/src/pancam/unity/Zion/ZionPlugin/Android/ZionAndroidPlugin/Cardboard_AndroidManifest.xml",
+		"/Users/tomio/jenkins/workspace/zion-android-build-demo-Output/1.txt",
+		"/Users/tomio/src/pancam/test/android/README.md",
+		"/Users/tomio/src/pancam/test/README.md",
+		"/Users/tomio/Desktop/AutomationNotes.txt",
+		"/Users/tomio/tmp/My DID.txt",
+		"/Users/tomio/Desktop/stuff.json"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sdk",
+			"utilit",
+			"ZIONLOGG",
+			"seg",
+			"uploaded",
+			"failed",
+			"profil",
+			"profile",
+			"model",
+			"buildprofile",
+			"staging",
+			"ZIONLOGGING",
+			"buildProfile",
+			"staging",
+			"buildProfile",
+			"buildprofile",
+			"-2",
+			"incorrectly",
+			"incorrec",
+			"Sean",
+			"Big",
+			"revolt",
+			"api.jaunt",
+			"api",
+			"usage",
+			"192",
+			"filename",
+			"pancam",
+			"loading",
+			"incorrectly",
+			"pause",
+			"type\":\"play\"",
+			"type\":\"play",
+			"ty[e",
+			"type\":play",
+			"dro",
+			"android",
+			"lobby_exit",
+			"exit",
+			"name\":",
+			"black",
+			"Logged: {",
+			"curl error",
+			"classname",
+			"testcase",
+			"/testcase",
+			"TOMIOPREFIX",
+			"TomioP",
+			"TOMIOPREFIX",
+			"record_test",
+			"TOMIOPREFIX",
+			"TOMIO",
+			"test_android_playback",
+			"#mak",
+			"# mak",
+			"debug",
+			"IS_DEMO_BUILD",
+			"unity",
+			"Level",
+			"Build.Level",
+			"level",
+			"buildlevel",
+			"release",
+			"FLAVOR",
+			"both",
+			"release",
+			"CONFIG ?",
+			"FLAVOR",
+			"ENABLE_SIDE_LOAD",
+			"DEMO",
+			"release",
+			"DEMO",
+			"IS_DEMO",
+			"STAGING",
+			"dolby",
+			"_BUILD",
+			"IS_STAGING",
+			"IS_PRODUCTION_BUILD",
+			"STAGING_",
+			"ANT",
+			"IS_STAGING",
+			"IS_PRODUCTION",
+			"IS_DEMO",
+			"backtrace",
+			"SDK",
+			"gearvr",
+			"TARGET",
+			"TARGETx",
+			"TARGET",
+			"backtrace",
+			"backtrae",
+			"backtrace",
+			"token:",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\n",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"Paul",
+			"Kaiju",
+			"Paul",
+			"KaijuFuryKaijuFury",
+			"KaijuFury",
+			"Paul",
+			"KaijuFury",
+			"TOMIOPREFIX"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 270.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "coursera.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

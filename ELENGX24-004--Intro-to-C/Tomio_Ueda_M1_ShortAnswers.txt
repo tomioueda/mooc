@@ -1,0 +1,85 @@
+
+Name
+- Tomio Ueda
+
+City and State of residence (Country if other than United States)
+- Santa Clara, CA
+
+Occupation
+- Test Engineer
+
+Schools attended and degrees received
+- BA in Music Technology at California Institute of the Arts
+
+Major courses of study
+- Analog Synthesizer Design (MI400-1 and MI400-2)
+- Capitol Records Mastering (Interim)
+- Low-Level Digital Signal Processing (MI280)
+- Interface Design for Music and Media (MI330A and MI330B)
+- Advanced Programming Techniques in ChucK (Interim)
+- Synthesis (MI150)
+
+Prior experience in the field of computer programming
+- Some classes teaching music-based programming languages like ChucK (see above) and taught myself Python
+
+Reasons for taking this course
+- Would like to excel further in my career path as a test engineer and be able to implement smarter architectural designs in automated test systems like AI and hopefully machine learning. I am taking this course to brush up on lower-level languages (vs. Python) to eventually learn about data structures and algorithms. Furthermore, I would also like to attend graduate school at UC Berkeley and learn from the professors that are forging paths in AI/machine learning.
+
+Please provide any other information that you feel will help me tailor my comments to fit your needs.
+- Any guidance towards what it would take to get into UC Berkeley for graduate school would be great. 
+
+
+
+
+!!!Who was the creator of the C language and when was it created?
+- Dennis Ritchie
+
+What is the name of the one function that every C program must contain?
+- main
+
+!!!Which of the following are C keywords?
+    int
+    static
+    STATIC
+    main
+- 
+
+Identify the errors in the code below. Rewrite and submit the program without errors:
+#include "std.ioh"
+main
+{
+   int x=10.5; 
+   float z=21,000; 
+   printf('x = %f y = %f/n', y, x);          
+}
+- Answer below:
+
+
+What would be a safe (and portable) type for a variable that will contain an integer variable that will range from -50,000 to + 123,000?
+- 
+
+What is the difference between high level programming languages and machine code?
+-
+
+Write a printf statement that outputs the phrase "To be continued" and then advances to the next page (aka performs a form feed).
+-
+
+What is the name of the standard library that printf() and scanf() are associated with and must be included in the program using them?
+-
+
+What file extension should every C program use?
+- .c
+
+Find out how many bytes of storage your compiler requires for each of the following data types:
+    int
+    short
+    long
+    float
+    double
+- Answers below:
+    int = 
+    short = 
+    long = 
+    float = 
+    double = 
+
