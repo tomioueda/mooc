@@ -1,6 +1,6 @@
 //
-// Created by Tomio Ueda on 4/29/16.
-//
+// Build by typing:
+// $ gcc -o hello_app hello.c
 
 #include <stdio.h>
 
