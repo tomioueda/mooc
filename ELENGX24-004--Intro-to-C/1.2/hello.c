@@ -1,6 +1,6 @@
 //
 // Build by typing:
-// $ gcc -o hello_app hello.c
+// $ gcc -o hello hello.c
 
 #include <stdio.h>
 
