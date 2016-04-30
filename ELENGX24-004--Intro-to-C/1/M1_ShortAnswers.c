@@ -2,8 +2,8 @@
 
 int main(void)
 {
-   int x=10.5; 
-   float z=21,000; 
-   printf("x = %f y = %f\n", y, x);          
+   float x=10.5; 
+   int y=21000; 
+   printf("x = %f y = %d\n", x, y);          
    return 0;
 }

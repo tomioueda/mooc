@@ -26,25 +26,27 @@ Reasons for taking this course
 - Would like to excel further in my career path as a test engineer and be able to implement smarter architectural designs in automated test systems like AI and hopefully machine learning. I am taking this course to brush up on lower-level languages (vs. Python) to eventually learn about data structures and algorithms. Furthermore, I would also like to attend graduate school at UC Berkeley and learn from the professors that are forging paths in AI/machine learning.
 
 Please provide any other information that you feel will help me tailor my comments to fit your needs.
-- Any guidance towards what it would take to get into UC Berkeley for graduate school would be great. 
+- Any guidance towards what it would take to get into UC Berkeley for graduate school in Computer Science would be great. Hoping that taking this course would help me with that as well as my current work that I'm doing during my day job. 
 
 
+==========================================
+QUESTIONS
+==========================================
 
-
-!!!Who was the creator of the C language and when was it created?
+1. Who was the creator of the C language and when was it created?
 - Dennis Ritchie
 
-What is the name of the one function that every C program must contain?
+2. What is the name of the one function that every C program must contain?
 - main
 
-!!!Which of the following are C keywords?
+3. Which of the following are C keywords?
     int
     static
     STATIC
     main
-- 
+- int, static
 
-Identify the errors in the code below. Rewrite and submit the program without errors:
+4. Identify the errors in the code below. Rewrite and submit the program without errors:
 #include "std.ioh"
 main
 {
@@ -53,33 +55,41 @@ main
    printf('x = %f y = %f/n', y, x);          
 }
 - Answer below:
+#include <stdio.h>
 
+int main(void)
+{
+   float x=10.5; 
+   int y=21000; 
+   printf("x = %f y = %d\n", x, y);          
+   return 0;
+}
 
-What would be a safe (and portable) type for a variable that will contain an integer variable that will range from -50,000 to + 123,000?
-- 
+5. What would be a safe (and portable) type for a variable that will contain an integer variable that will range from -50,000 to + 123,000?
+- long, some compilers use a 16 bit standard which maxes out at 32,767 for int's. Max value for a 32-bit int is +/- 2,147,483,647 so the safer of the two would be an unsigned long.
 
-What is the difference between high level programming languages and machine code?
--
+6. What is the difference between high level programming languages and machine code?
+- In high level programming, you don't have to express your instructions in numeric code. Second, the instructions you use are much closer to human-readable language versus how a computer would think and process the solution. Rather than worry about the precise steps a particular CPU would have to take to accomplish a task, you can express your desires on a more abstract level in high level programming. High level programming then gets translated and interpreted by a compiler to a detailed set of instructions, machine code, that the machine understands.
 
-Write a printf statement that outputs the phrase "To be continued" and then advances to the next page (aka performs a form feed).
--
+7. Write a printf statement that outputs the phrase "To be continued" and then advances to the next page (aka performs a form feed).
+- printf("To be continued \f")
 
-What is the name of the standard library that printf() and scanf() are associated with and must be included in the program using them?
--
+8. What is the name of the standard library that printf() and scanf() are associated with and must be included in the program using them?
+- stdio
 
-What file extension should every C program use?
+9. What file extension should every C program use?
 - .c
 
-Find out how many bytes of storage your compiler requires for each of the following data types:
-    int
+10. Find out how many bytes of storage your compiler requires for each of the following data types:
+    int 
     short
     long
     float
     double
 - Answers below:
-    int = 
-    short = 
-    long = 
-    float = 
-    double = 
+    int = 2 or 4
+    short = 2
+    long = 4
+    float = 4
+    double = 8
 
