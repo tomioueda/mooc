@@ -1,0 +1,34 @@
+Write a program that declares an integer variable named "age_years" and initializes the variable to someone's age.  Convert the age in years to days by multiplying with 365.  Use the printf() statement to display the values of both variables, "age_years" and "age_days", using the following message:
+
+I am ____ years old which is also ____ days old!
+
+Write a program that declares an integer variable named "number" and initializes the variable to the value 10. Calculate and display the results of the following using the +, -, *, /, and % operators:
+    number times 2
+    number divided by 2
+    number plus 2
+    number minus 2
+    number squared (num times num)
+
+Submission Requirements:
+
+Provide a header comment for every program similar to:
+
+    /************************************************
+    * filename: toes.c
+    * Exercise: Module 1, Exercise 2
+    * Name: John Doe
+    * Date Created: January 1, 2015
+    *
+    * Description: This program calculates ......
+    *************************************************/ 
+
+Use "standard" C formatting and style (see Listing 2.2).
+    Insert blank lines to separate "sections."
+    Indent statements within a block of code.
+    Put calculations in a separate statement (not embedded in printf).
+    Add comments within the code, especially ALL calculations.
+Incorporate a good, clear, informative, friendly user interface.
+    Display a brief program description to the user.
+    Insert blank lines where appropriate for readability.
+    Clearly identify what the output represents to the user.
+    Provide example user inputs if necessary.
