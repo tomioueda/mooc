@@ -1,0 +1,31 @@
+1. If each of the following printf statements was part of a complete program, what would it print?
+    printf("The answer is %10.1f ",1.2345);
+    #define QUOTE "Hopefully this will help!"
+    ...
+    printf("/%10.5s/ ",QUOTE);
+    printf("x = %010d ",43);
+    printf("%c",'\x4d');
+
+2. Write a single scanf statement that could be used to enter both a person's first and last name.
+3. Code conversion specifications for each of the following:
+    a floating point number with a field width of 12 and 5 significant digits
+    a long integer in hexadecimal format
+    an integer with leading zeros instead of leading spaces
+    a short unsigned integer
+4. Write a preprocessor define for the shipping charge on one box of freight (assume it is 2.75). Write a C statement that uses this define to calculate the total freight charge for the number of boxes stored in box_cnt, and place the result in tot_shp_cost.
+
+5. If x was an integer data type, what would be its value for each of the following statements?
+    x = 10 / 2 + 3;
+    x = 3 + 2 * 5;
+    x = 10 % 5;
+    x = 3 % 2;
+    x = 3 * 6 / 4;
+    x = strlen("test string");
+6. What is the built-in function that writes output to the monitor?
+7. Convert each of the following formulas into its C statement with correct syntax:
+    result = a + 5
+               b - 3
+    area = formula for the area of a two dimensional rectangle with sides "length" and "width"
+    Fahrenheit = formula for converting Centigrade to Fahrenheit
+    volume = formula for a volume of a 3 dimensional box with sides "length", "width" and "height"
+    surface_area = formula for the surface area of a 3-D box with sides "length", "width" and "height"

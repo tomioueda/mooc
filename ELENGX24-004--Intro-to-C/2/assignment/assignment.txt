@@ -1,0 +1,15 @@
+1. Write a program that prints the numbers from 1 to 10. Use the while statement and one of the increment operators.
+
+2. Write a program that requests a trip distance in miles, a speed in miles/hour, and your name. Calculate how long the trip will take and then displays the information in the following form:
+
+Sam, your trip of 100 miles at 40 mph will take 2.5 hours
+
+3. Write a program that prompts the user to enter the number of seconds and then converts that value to hours and minutes. Use a while loop to allow the user to repeatedly enter second values and terminate the program when the user enters a value of zero or less. Display the results in the following format:
+
+10000 seconds is 2 hours and 46.67 minutes
+
+4. Write a program that prompts the user to enter a value for the price of an item to be purchased.  Have the program add on a sales tax of 5.6%.  Do not display any fractional part of the cents value and make sure that the cents value is rounded, not truncated, by using the correct printf conversion specification modifiers (refer to pages 104-108). Display the results as shown in the following format:
+
+    Example 1: Item price of $10.00 with sales tax is 10 dollars and 56 cents
+
+    Example 2: Item price of $1.00 with sales tax is 1 dollars and 6 cents
